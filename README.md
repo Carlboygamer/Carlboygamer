@@ -9,7 +9,7 @@
 ***
 
 ## Github Stats
-![Carlboygamer Github Stats](https://github-readme-stats.vercel.app/api?username=Carlboygamer&show_icons=true&theme=tokyonight)
+![Carlboygamer Github Stats](https://github-readme-stats.vercel.app/api?username=Carlboygamer&show_icons=true&theme=midnight)
 
 
 ***
