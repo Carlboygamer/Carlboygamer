@@ -21,9 +21,9 @@
 [![Discord Banner 2](https://discordapp.com/api/guilds/905004741841551380/widget.png?style=banner2)](https://discord.gg/vXWdRzbH4M)
 
 ***
-## 🚀 Interests
+## 🚀 Learning On
 
- ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![Github](https://img.icons8.com/material-outlined/30/github.png) ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png) 
+ ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![Python](![NodeJS](https://img.icons8.com/color/30/python.png)
 
 ***
 
