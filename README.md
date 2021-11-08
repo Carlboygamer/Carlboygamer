@@ -7,6 +7,6 @@
 ***
 
 ## [🚀Discord Server](https://dsc.gg/fynlee-support-server) | 
-<a href="https://dsc.gg/fynlee-support-server"><img src="https://discord.com/api/guilds/905004741841551380/widget.json"></a>
+<a href="https://dsc.gg/fynlee-support-server"><img src="https://discord.com/api/guilds/905004741841551380/widget.png?style=banner2"></a>
 
 ***
