@@ -23,7 +23,7 @@
 ***
 ## 🚀 Learning On
 
- ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![Python](![NodeJS](https://img.icons8.com/color/30/python.png)
+ ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![Python](https://img.icons8.com/color/30/python.png)
 
 ***
 
