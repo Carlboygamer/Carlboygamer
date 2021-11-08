@@ -10,9 +10,6 @@
 
 ## Github Stats
 ![Carlboygamer Github Stats](https://github-readme-stats.vercel.app/api?username=Carlboygamer&show_icons=true&theme=tokyonight)
-</a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlboygamer&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-</a>
 
 
 ***
