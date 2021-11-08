@@ -1,3 +1,4 @@
+***
 - 👋 Hi, I’m @Carlboygamer
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Node.js and Javascript
@@ -6,7 +7,7 @@
 
 ***
 
-## [🚀Discord Server](https://dsc.gg/fynlee-support-server) | 
-<a href="https://dsc.gg/fynlee-support-server"><img src="https://discord.com/api/guilds/905004741841551380/widget.png?style=banner2"></a>
+# Discord Server
+[![Discord Banner 2](https://discordapp.com/api/guilds/905004741841551380/widget.png?style=banner2)](https://discord.gg/vXWdRzbH4M)
 
 ***
