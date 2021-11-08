@@ -24,7 +24,7 @@
 
 ***
 
-## :headphones: Spotify
+## :headphones: Listening to Spotify
 
   [![NCS Music](https://img.shields.io/badge/NCS%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7xMr6V00WmTLRzQUFVCx0B)  [![Shawn Mendes Music](https://img.shields.io/badge/Shawn%20Mendes%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr)
 
