@@ -29,4 +29,6 @@
  [![Relaxing Music](https://img.shields.io/badge/Relaxing%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3nefUccOcypMsYYzcKrSnL?si=d5e2c0b91ecf4fa0) [![NCS Music](https://img.shields.io/badge/NCS%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7xMr6V00WmTLRzQUFVCx0B)  [![Shawn Mendes Music](https://img.shields.io/badge/Shawn%20Mendes%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr)
 
 ***
-
+# License
+[Apache 2.0](https://github.com/Carlboygamer/License-Apache-2.0/blob/main/LICENSE)
+***
