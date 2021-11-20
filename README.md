@@ -14,7 +14,7 @@
 ***
 
 ## Github Stats
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Carlboygamer&theme=dracula&count_private=true"></div>
+(https://github-profile-trophy.vercel.app/?username=Carlboygamer&theme=dracula&count_private=true)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Carlboygamer&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlboygamer&theme=tokyonight&hide=batchfile">
 
 
