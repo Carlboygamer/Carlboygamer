@@ -5,7 +5,7 @@
 - 🏆| My hobbies:
 💻 Coding|Node.js, Javascript|・🃏 Uno・🎮 Video Game・🎵 Listening to Music・🏀 basketball・📖  Reading Visual Nove
 
-[!Discord](https://discord.c99.nl/widget/theme-2/579560370268798989.png)
+![Discord](https://discord.c99.nl/widget/theme-2/579560370268798989.png)
 
 ***
 
