@@ -18,14 +18,13 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Carlboygamer&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlboygamer&theme=tokyonight&hide=batchfile">
 
 
+
+
 ***
 
+## :headphones: Listening to Spotify
 
-## 🚀 Learning On
-
- ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![Python](https://img.icons8.com/color/30/python.png)
-
-
+  [![NCS Music](https://img.shields.io/badge/NCS%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7xMr6V00WmTLRzQUFVCx0B)  [![Shawn Mendes Music](https://img.shields.io/badge/Shawn%20Mendes%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr)
 
 ***
 # ⚠️ License
