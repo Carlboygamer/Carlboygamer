@@ -23,8 +23,6 @@
 <code><img height="20" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/></code>
 <code><img height="20" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /></code>
 <code><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></code>
-[![Status](https://top.gg/api/widget/status/579560370268798989.svg)](https://top.gg/bot/579560370268798989)
-
 
 ***
 
