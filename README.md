@@ -14,8 +14,9 @@
 ***
 
 ## Github Stats
-(https://github-profile-trophy.vercel.app/?username=Carlboygamer&theme=dracula&count_private=true)
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Carlboygamer&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlboygamer&theme=tokyonight&hide=batchfile">
+![Stats](https://github-profile-trophy.vercel.app/?username=Carlboygamer&theme=dracula&count_private=true)
+![Carlboygamer Github Stats](https://github-readme-stats.vercel.app/api?username=Carlboygamer&show_icons=true&theme=tokyonight)
+![Most Language Use](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlboygamer&theme=tokyonight&hide=batchfile)
 
 
 
