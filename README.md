@@ -5,7 +5,11 @@
 - 🏆| My hobbies:
 💻 Coding|Node.js, Javascript|・🃏 Uno・🎮 Video Game・🎵 Listening to Music・🏀 basketball・📖  Reading Visual Nove
 
+##Profile
 ![Discord](https://discord.c99.nl/widget/theme-2/579560370268798989.png)
+
+# Discord Server
+[![Discord Banner 2](https://discordapp.com/api/guilds/905004741841551380/widget.png?style=banner2)](https://discord.gg/vXWdRzbH4M)
 
 ***
 
@@ -15,10 +19,7 @@
 
 ***
 
-# Discord Server
-[![Discord Banner 2](https://discordapp.com/api/guilds/905004741841551380/widget.png?style=banner2)](https://discord.gg/vXWdRzbH4M)
 
-***
 ## 🚀 Learning On
 
  ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![Python](https://img.icons8.com/color/30/python.png)
