@@ -6,6 +6,8 @@
 💻 Coding|Node.js, Javascript|・🃏 Uno・🎮 Video Game・🎵 Listening to Music・🏀 basketball・📖  Reading Visual Nove
 
 
+![Discord](https://discord.c99.nl/widget/theme-3/552814506070507531.png)
+
 ***
 
 ## Github Stats
