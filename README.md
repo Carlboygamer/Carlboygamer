@@ -9,8 +9,7 @@
 ![Discord](https://discord.c99.nl/widget/theme-2/579560370268798989.png)
 
 # Discord Server
-[![Discord Banner 2](https://discordapp.com/api/guilds/905004741841551380/widget.png?style=banner2)](https://discord.gg/vXWdRzbH4M)
-<iframe src="https://discord.com/widget?id=905004741841551380&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+[![Discord Banner 2](https://discord.com/widget?id=905004741841551380&theme=dark)](https://discord.gg/vXWdRzbH4M)
 
 ****
 
