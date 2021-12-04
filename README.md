@@ -9,8 +9,7 @@
 ![Discord](https://discord.c99.nl/widget/theme-2/579560370268798989.png)
 
 # Discord Server
-[![Discord Banner 2](https://discord.com/widget?id=905004741841551380&theme=dark)](https://discord.gg/vXWdRzbH4M)
-
+[![Discord Banner 2](https://discord.com/widget?id=905004741841551380&theme=dark)]
 ****
 
 ## **Languages and Tools:**  
