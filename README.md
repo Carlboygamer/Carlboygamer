@@ -13,8 +13,7 @@
 
 # Discord Server
 [![Discord Banner 2](https://discord.com/widget?id=931315077775245342&theme=dark)](https://discord.gg/bTBwMSfQ84)
-<iframe src="https://discord.com/widget?id=931315077775245342&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-****
+<iframe>img src="https://discord.com/widget?id=931315077775245342&theme=dark"></iframe>
 
 ## **Languages and Tools:**  
 
