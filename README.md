@@ -12,7 +12,7 @@
 ![Discord](https://discord.c99.nl/widget/theme-2/580651112328200193.png)
 
 # Discord Server
-[![Discord Banner 2](https://discordapp.com/api/guilds/905004741841551380/widget.png?style=banner2)](https://discord.gg/bTBwMSfQ84)
+[![Discord Banner 2](https://discord.com/widget?id=931315077775245342&theme=dark)](https://discord.gg/bTBwMSfQ84)
 ****
 
 ## **Languages and Tools:**  
